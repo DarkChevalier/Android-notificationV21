@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Apr 14 16:21:34 CST 2018
+0.baseType=DIRECTORY
+0.base=/Users/sunzhibin/a/Android-notifcationV21/app/build/intermediates/assets/debug
+0.path=cs.apk
+0.set=ASSET
+count=1
